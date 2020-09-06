@@ -1,3 +1,5 @@
+#### SCRIPTS USED IN THE SUBSTRATES ARTICLE, WORK IN PROGRESS! ###
+
 setwd("D:/Users/Juaco/Google Drive/Papers en produccion/Sustratos/Analisis")
 library(ggplot2)
 library(apaTables)
