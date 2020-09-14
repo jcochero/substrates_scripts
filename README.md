@@ -1,3 +1,3 @@
-# substrates_scripts
-R scripts for the article comparing biofilm substrates
-"A line" 
+# R scripts used in the article tentatively entitled "The importance of substrate choice in stream biofilm research" 
+By Cochero & Licursi
+
